@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ArmakomLogReader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Projects\JEMUS\Source\ECC\UI\JEMUSConsole\bin\x86\Debug\AppLog</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
